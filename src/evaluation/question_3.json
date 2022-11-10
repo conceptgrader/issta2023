@@ -1,0 +1,342 @@
+{
+  "wrong_3_005.py": {
+    "test grade": 83.33,
+    "concept grade": 36.66666666666667,
+    "tutor grade": 75
+  },
+  "wrong_3_012.py": {
+    "test grade": 16.67,
+    "concept grade": 10.0,
+    "tutor grade": 65
+  },
+  "wrong_3_016.py": {
+    "test grade": 50.0,
+    "concept grade": 10.0,
+    "tutor grade": 65
+  },
+  "wrong_3_018.py": {
+    "test grade": 66.67,
+    "concept grade": 20.0,
+    "tutor grade": 80
+  },
+  "wrong_3_019.py": {
+    "test grade": 66.67,
+    "concept grade": 10.0,
+    "tutor grade": 80
+  },
+  "wrong_3_020.py": {
+    "test grade": 16.67,
+    "concept grade": 10.0,
+    "tutor grade": 40
+  },
+  "wrong_3_021.py": {
+    "test grade": 66.67,
+    "concept grade": 10.0,
+    "tutor grade": 50
+  },
+  "wrong_3_026.py": {
+    "test grade": 16.67,
+    "concept grade": 10.0,
+    "tutor grade": 60
+  },
+  "wrong_3_029.py": {
+    "test grade": 16.67,
+    "concept grade": 10.0,
+    "tutor grade": 90
+  },
+  "wrong_3_053.py": {
+    "test grade": 33.33,
+    "concept grade": 10.0,
+    "tutor grade": 65
+  },
+  "wrong_3_079.py": {
+    "test grade": 33.33,
+    "concept grade": 10.0,
+    "tutor grade": 90
+  },
+  "wrong_3_084.py": {
+    "test grade": 16.67,
+    "concept grade": 10.0,
+    "tutor grade": 45
+  },
+  "wrong_3_085.py": {
+    "test grade": 33.33,
+    "concept grade": 10.0,
+    "tutor grade": 90
+  },
+  "wrong_3_087.py": {
+    "test grade": 50.0,
+    "concept grade": 10.0,
+    "tutor grade": 75
+  },
+  "wrong_3_093.py": {
+    "test grade": 83.33,
+    "concept grade": 20.0,
+    "tutor grade": 55
+  },
+  "wrong_3_097.py": {
+    "test grade": 66.67,
+    "concept grade": 0.0,
+    "tutor grade": 90
+  },
+  "wrong_3_100.py": {
+    "test grade": 16.67,
+    "concept grade": 10.0,
+    "tutor grade": 100
+  },
+  "wrong_3_101.py": {
+    "test grade": 16.67,
+    "concept grade": 10.0,
+    "tutor grade": 75
+  },
+  "wrong_3_102.py": {
+    "test grade": 16.67,
+    "concept grade": 10.0,
+    "tutor grade": 80
+  },
+  "wrong_3_108.py": {
+    "test grade": 83.33,
+    "concept grade": 20.0,
+    "tutor grade": 90
+  },
+  "wrong_3_110.py": {
+    "test grade": 16.67,
+    "concept grade": 10.0,
+    "tutor grade": 65
+  },
+  "wrong_3_127.py": {
+    "test grade": 83.33,
+    "concept grade": 55.00000000000001,
+    "tutor grade": 90
+  },
+  "wrong_3_137.py": {
+    "test grade": 50.0,
+    "concept grade": 0.0,
+    "tutor grade": 65
+  },
+  "wrong_3_147.py": {
+    "test grade": 33.33,
+    "concept grade": 10.0,
+    "tutor grade": 65
+  },
+  "wrong_3_157.py": {
+    "test grade": 16.67,
+    "concept grade": 10.0,
+    "tutor grade": 75
+  },
+  "wrong_3_165.py": {
+    "test grade": 33.33,
+    "concept grade": 10.0,
+    "tutor grade": 90
+  },
+  "wrong_3_171.py": {
+    "test grade": 83.33,
+    "concept grade": 55.00000000000001,
+    "tutor grade": 90
+  },
+  "wrong_3_172.py": {
+    "test grade": 16.67,
+    "concept grade": 10.0,
+    "tutor grade": 65
+  },
+  "wrong_3_173.py": {
+    "test grade": 16.67,
+    "concept grade": 10.0,
+    "tutor grade": 65
+  },
+  "wrong_3_178.py": {
+    "test grade": 16.67,
+    "concept grade": 0.0,
+    "tutor grade": 50
+  },
+  "wrong_3_181.py": {
+    "test grade": 33.33,
+    "concept grade": 0.0,
+    "tutor grade": 90
+  },
+  "wrong_3_182.py": {
+    "test grade": 83.33,
+    "concept grade": 0.0,
+    "tutor grade": 80
+  },
+  "wrong_3_189.py": {
+    "test grade": 16.67,
+    "concept grade": 10.0,
+    "tutor grade": 25
+  },
+  "wrong_3_190.py": {
+    "test grade": 33.33,
+    "concept grade": 10.0,
+    "tutor grade": 90
+  },
+  "wrong_3_191.py": {
+    "test grade": 66.67,
+    "concept grade": 28.333333333333332,
+    "tutor grade": 90
+  },
+  "wrong_3_195.py": {
+    "test grade": 16.67,
+    "concept grade": 10.0,
+    "tutor grade": 75
+  },
+  "wrong_3_202.py": {
+    "test grade": 83.33,
+    "concept grade": 48.333333333333336,
+    "tutor grade": 90
+  },
+  "wrong_3_203.py": {
+    "test grade": 33.33,
+    "concept grade": 10.0,
+    "tutor grade": 75
+  },
+  "wrong_3_204.py": {
+    "test grade": 33.33,
+    "concept grade": 0.0,
+    "tutor grade": 90
+  },
+  "wrong_3_205.py": {
+    "test grade": 16.67,
+    "concept grade": 10.0,
+    "tutor grade": 70
+  },
+  "wrong_3_207.py": {
+    "test grade": 33.33,
+    "concept grade": 0.0,
+    "tutor grade": 80
+  },
+  "wrong_3_208.py": {
+    "test grade": 33.33,
+    "concept grade": 0.0,
+    "tutor grade": 100
+  },
+  "wrong_3_209.py": {
+    "test grade": 33.33,
+    "concept grade": 0.0,
+    "tutor grade": 90
+  },
+  "wrong_3_212.py": {
+    "test grade": 33.33,
+    "concept grade": 10.0,
+    "tutor grade": 75
+  },
+  "wrong_3_215.py": {
+    "test grade": 16.67,
+    "concept grade": 10.0,
+    "tutor grade": 55
+  },
+  "wrong_3_219.py": {
+    "test grade": 33.33,
+    "concept grade": 10.0,
+    "tutor grade": 50
+  },
+  "wrong_3_220.py": {
+    "test grade": 33.33,
+    "concept grade": 10.0,
+    "tutor grade": 65
+  },
+  "wrong_3_221.py": {
+    "test grade": 16.67,
+    "concept grade": 10.0,
+    "tutor grade": 50
+  },
+  "wrong_3_224.py": {
+    "test grade": 16.67,
+    "concept grade": 10.0,
+    "tutor grade": 80
+  },
+  "wrong_3_225.py": {
+    "test grade": 16.67,
+    "concept grade": 10.0,
+    "tutor grade": 50
+  },
+  "wrong_3_226.py": {
+    "test grade": 33.33,
+    "concept grade": 10.0,
+    "tutor grade": 65
+  },
+  "wrong_3_227.py": {
+    "test grade": 33.33,
+    "concept grade": 10.0,
+    "tutor grade": 90
+  },
+  "wrong_3_228.py": {
+    "test grade": 16.67,
+    "concept grade": 10.0,
+    "tutor grade": 65
+  },
+  "wrong_3_235.py": {
+    "test grade": 100.0,
+    "concept grade": 73.33333333333334,
+    "tutor grade": 90
+  },
+  "wrong_3_238.py": {
+    "test grade": 16.67,
+    "concept grade": 10.0,
+    "tutor grade": 75
+  },
+  "wrong_3_239.py": {
+    "test grade": 16.67,
+    "concept grade": 10.0,
+    "tutor grade": 80
+  },
+  "wrong_3_245.py": {
+    "test grade": 33.33,
+    "concept grade": 20.0,
+    "tutor grade": 65
+  },
+  "wrong_3_246.py": {
+    "test grade": 83.33,
+    "concept grade": 20.0,
+    "tutor grade": 80
+  },
+  "wrong_3_251.py": {
+    "test grade": 33.33,
+    "concept grade": 20.0,
+    "tutor grade": 90
+  },
+  "wrong_3_258.py": {
+    "test grade": 33.33,
+    "concept grade": 0.0,
+    "tutor grade": 100
+  },
+  "wrong_3_260.py": {
+    "test grade": 16.67,
+    "concept grade": 10.0,
+    "tutor grade": 65
+  },
+  "wrong_3_261.py": {
+    "test grade": 33.33,
+    "concept grade": 0.0,
+    "tutor grade": 100
+  },
+  "wrong_3_262.py": {
+    "test grade": 33.33,
+    "concept grade": 10.0,
+    "tutor grade": 90
+  },
+  "wrong_3_263.py": {
+    "test grade": 33.33,
+    "concept grade": 0.0,
+    "tutor grade": 100
+  },
+  "wrong_3_284.py": {
+    "test grade": 16.67,
+    "concept grade": 10.0,
+    "tutor grade": 65
+  },
+  "wrong_3_286.py": {
+    "test grade": 16.67,
+    "concept grade": 0.0,
+    "tutor grade": 65
+  },
+  "wrong_3_287.py": {
+    "test grade": 16.67,
+    "concept grade": 0.0,
+    "tutor grade": 80
+  },
+  "wrong_3_301.py": {
+    "test grade": 16.67,
+    "concept grade": 10.0,
+    "tutor grade": 80
+  }
+}
